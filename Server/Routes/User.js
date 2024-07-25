@@ -1,5 +1,5 @@
 import express from 'express'
-import { login } from '../Controllers/auth.js'
+import { login } from '../Controllers/Auth.js'
 import { updatechaneldata,getallchannel } from '../Controllers/channel.js'
 
 const routes = express.Router();
