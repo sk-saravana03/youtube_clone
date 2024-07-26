@@ -115,7 +115,7 @@ const Navbar = ({ toggledrawer, seteditcreatechanelbtn }) =>
                     <div className="burger" onClick={() => toggledrawer()}>
                         <p></p>
                         <p></p>
-                        <p></p>
+                    
                     </div>
                     <Link to={"/"} className='logo_div_Navbar'>
                         <img src={logo} alt="" />
@@ -148,7 +148,9 @@ const Navbar = ({ toggledrawer, seteditcreatechanelbtn }) =>
                                         <>{currentuser?.result.name.charAt(0).toUpperCase()}</>
 
                                     ) : (
-                                        <>{currentuser?.result.email.charAt(0).toUpperCase()}</>
+                                        <>{currentuser?.result.email.charAt(0).toUpperCase()}
+                                            {}
+                                        </>
                                     )}
                                 </p>
                             </div>
