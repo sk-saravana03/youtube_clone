@@ -22,8 +22,8 @@ The backend is hosted on Render: [YouTube Clone Backend](https://youtube-clone-3
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone 
-   cd YouTubeClone-NullClass
+   git clone https://github.com/sk-saravana03/youtube_clone.git
+   cd Youtube_clone
    ```
 
 2. Install dependencies:
