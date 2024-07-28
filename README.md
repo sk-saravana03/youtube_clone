@@ -23,19 +23,19 @@ The backend is hosted on Render: [YouTube Clone Backend](https://youtube-clone-3
 1. Clone the repository:
    ```sh
    git clone https://github.com/sk-saravana03/youtube_clone.git
-   cd Youtube_clone
+   cd youtube_clone
    ```
 
 2. Install dependencies:
    - Frontend:
      ```sh
-     cd client
+     cd Client
      npm install
      npm start
      ```
    - Backend:
      ```sh
-     cd server
+     cd Server
      npm install
      npm start
      ```
@@ -47,10 +47,10 @@ The detailed internship report is available [here](./Internship%20report.docx).
 - Proficiency in React.
 - Experience with video player libraries and custom gesture controls.
 - Knowledge of WebRTC for VoIP features.
-- Understanding of hosting web applications on platforms like Netlify or Vercel.
+- Understanding of hosting web applications on platforms like Netlify and Render.
 
 ## Feedback and Evidence
 Users appreciated the intuitive gesture controls and the seamless integration of the video call feature. Feedback was collected through user testing sessions.
 
 ## Conclusion
-The project achieved its objectives of enhancing user engagement and functionality. The points system, custom video player, and VoIP feature significantly improved the user experience.
+The project successfully introduced a custom video player and made progress on the VoIP feature, though the points system and VoIP feature remain incomplete. The project demonstrates the potential for further development and refinement to fully achieve its goals and improve user engagement and functionality.
