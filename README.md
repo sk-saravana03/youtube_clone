@@ -2,7 +2,13 @@
 # YouTubeClone-NullClass
 
 ## Introduction
-This project involved enhancing a YouTube-inspired web application with three primary features: a points allocation system for watching videos, a custom video player with gesture-based controls, and a VoIP feature for video calls and screen sharing. The objective was to create an engaging and interactive user experience while maintaining functionality and ease of use.
+This project involved enhancing a YouTube-inspired web application with three primary features: 
+
+ - A points allocation system for watching videos
+ - A custom video player with gesture-based controls
+ - A VoIP feature for video calls and screen sharing.
+
+The objective was to create an engaging and interactive user experience while maintaining functionality and ease of use.
 
 ## Setup Instructions
 ### Frontend
