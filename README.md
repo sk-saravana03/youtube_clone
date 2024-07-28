@@ -6,7 +6,7 @@ This project involved enhancing a YouTube-inspired web application with three pr
 
 ## Setup Instructions
 ### Frontend
-The frontend is hosted on Vercel: [YouTube Clone Frontend](https://you-tube-clone-web.netlify.app/)
+The frontend is hosted on Netlify: [YouTube Clone Frontend](https://you-tube-clone-web.netlify.app/)
    
 ### Backend
 The backend is hosted on Render: [YouTube Clone Backend](https://youtube-clone-3k6h.onrender.com)
