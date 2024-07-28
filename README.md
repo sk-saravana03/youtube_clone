@@ -35,7 +35,7 @@ The backend is hosted on Render: [YouTube Clone Backend](https://youtube-clone-3
      ```
 
 ## Internship Report
-The detailed internship report is available [here](./internshipreport.docx).
+The detailed internship report is available [here](./Internship%20report.docx).
 
 ## Skills and Competencies
 - Proficiency in React.
