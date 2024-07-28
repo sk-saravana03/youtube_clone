@@ -49,8 +49,5 @@ The detailed internship report is available [here](./Internship%20report.docx).
 - Knowledge of WebRTC for VoIP features.
 - Understanding of hosting web applications on platforms like Netlify and Render.
 
-## Feedback and Evidence
-Users appreciated the intuitive gesture controls and the seamless integration of the video call feature. Feedback was collected through user testing sessions.
-
 ## Conclusion
 The project successfully introduced a custom video player and made progress on the VoIP feature, though the points system and VoIP feature remain incomplete. The project demonstrates the potential for further development and refinement to fully achieve its goals and improve user engagement and functionality.
