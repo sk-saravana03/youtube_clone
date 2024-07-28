@@ -22,7 +22,7 @@ The backend is hosted on Render: [YouTube Clone Backend](https://youtube-clone-3
 ### Local Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AthulTM/YouTubeClone-NullClass.git
+   git clone 
    cd YouTubeClone-NullClass
    ```
 
